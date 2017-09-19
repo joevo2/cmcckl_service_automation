@@ -50,6 +50,9 @@ Automate weekly Sunday worship service
 ```
 
 ## Libraries 
+- PowerPoint Parser (reader)
+  - [js-pptx](https://github.com/won21kr/js-pptx) 
+  > Seems ok but last update is 2015
 - PowerPoint Generation
   - [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
   - [officegen](https://github.com/Ziv-Barber/officegen)
