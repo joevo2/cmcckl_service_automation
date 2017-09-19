@@ -49,6 +49,10 @@ Example:
 }
 ```
 
+## Libraries 
+- PowerPoint Generation
+  - [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
+  - [officegen](https://github.com/Ziv-Barber/officegen)
 ## Existing solution
 1. [OpenLP](https://openlp.org/)
 > [Developer portal](https://openlp.io/)
