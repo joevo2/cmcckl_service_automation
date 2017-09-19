@@ -52,11 +52,11 @@ Automate weekly Sunday worship service
 ## Libraries 
 - PowerPoint Parser (reader)
   - [js-pptx](https://github.com/won21kr/js-pptx) 
-  > Seems ok but last update is 2015
+    > Seems ok but last update is 2015
 - PowerPoint Generation
   - [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
   - [officegen](https://github.com/Ziv-Barber/officegen)
 
 ## Existing solution
-1. [OpenLP](https://openlp.org/)
-> [Developer portal](https://openlp.io/)
+- [OpenLP](https://openlp.org/)
+  > [Developer portal](https://openlp.io/)
