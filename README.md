@@ -12,9 +12,8 @@ Automate weekly Sunday worship service
 - Heroku + mLab
 - NodeJS backend with Koa
 - Create React App front end
-  - Search 
-  - Select
-  - Combine or generate slides as PowerPoint
+  - Search slides
+  - Select slides to combine or generate slides as PowerPoint
 
 ## Existing solution
 1. [OpenLP](https://openlp.org/)
