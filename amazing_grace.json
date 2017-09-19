@@ -1,0 +1,41 @@
+{
+  "title": "Amazing Grace",
+  "lyrics": {
+    "en": {
+      "v1": [
+        "Amazing grace! how sweet the sound, That saved a wretch; like me!",
+        "I once was lost, but now am found, Was blind, but now I see."
+      ],
+      "v2": [
+        "’Twas grace that taught my heart to fear, And grace my fears relieved;",
+        "How precious did that grace appear The hour I first believed!"
+      ],
+      "v3": [
+        "The Lord hath promised good to me, His word my hope secures;",
+        "He will my shield and portion be As long as life endures."
+      ],
+      "v4": [
+        "When we’ve been there ten thousand years, Bright shining as the sun, ",
+        "We’ve no less days to sing God’s praise Than when we first begun."
+      ]
+    },
+    "cn": {
+      "v1": [
+        "奇异恩典 何等甘甜 我罪以得赦免",
+        "前我失丧 今被寻回 瞎眼今得看见"
+      ],
+      "v2": [
+        "如此恩典 使我敬畏使我心得安慰",
+        "初信之时 即蒙恩惠 真是何等宝贵"
+      ],
+      "v3": [
+        "我主應許 美好無比 盼望永不失去",
+        "有主做為盾牌福份 我心不再畏懼"
+      ],
+      "v4": [
+        "将来禧年 圣徒欢聚 恩光爱谊千年",
+        "喜乐颂赞 在父座前 深望那日快现"
+      ]
+    }
+  }
+}
