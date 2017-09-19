@@ -17,8 +17,11 @@ Automate weekly Sunday worship service
 
 ## Todo
 - [ ] Script/Engine to convert existing slides into database entry
-- [ ] Database document schema (slides/song object schema) 
-[Example](https://github.com/joevo2/cmcckl_service_automation/blob/master/amazing_grace.json): 
+- [x] Database document schema (slides/song object schema) [Example](https://github.com/joevo2/cmcckl_service_automation/blob/master/amazing_grace.json)
+- [ ] Setup infrastructure 
+- [ ] Dashboard
+
+## Song JSON Schema
 ```
 {
   "title": "Amazing Grace",
