@@ -18,7 +18,7 @@ Automate weekly Sunday worship service
 ## Todo
 - [ ] Script/Engine to convert existing slides into database entry
 - [ ] Database document schema (slides/song object schema) 
-Example: 
+[Example](https://github.com/joevo2/cmcckl_service_automation/blob/master/amazing_grace.json): 
 ```
 {
   "title": "Amazing Grace",
@@ -53,6 +53,7 @@ Example:
 - PowerPoint Generation
   - [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
   - [officegen](https://github.com/Ziv-Barber/officegen)
+
 ## Existing solution
 1. [OpenLP](https://openlp.org/)
 > [Developer portal](https://openlp.io/)
