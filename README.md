@@ -2,11 +2,11 @@
 Automate weekly Sunday worship service 
 
 ## Features
-[ ] Consolidate current slides stored in Dropbox into a database
-[ ] Generate slides from the database
-[ ] Crawl hymnal.org to save into the database
-[ ] Generate slides and save as PowerPoint
-[ ] Bilingual slides support
+- [ ] Consolidate current slides stored in Dropbox into a database
+- [ ] Generate slides from the database
+- [ ] Crawl hymnal.org to save into the database
+- [ ] Generate slides and save as PowerPoint
+- [ ] Bilingual slides support
 
 ## Proposed tech stack
 - Heroku + mLab
