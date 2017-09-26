@@ -54,8 +54,9 @@ Automate weekly Sunday worship service
 
 ## Libraries 
 - PowerPoint Parser (read pptx)
-  - [js-pptx](https://github.com/won21kr/js-pptx) 
+  - ~~[js-pptx](https://github.com/won21kr/js-pptx) ~~
     > Seems ok but last update is 2015
+    > tested it out... seems unable to extract text yet :-(
   - [textract](https://github.com/dbashford/textract)
     > Looks awesome but sure take a lot of other text 
 - PowerPoint Generator (create pptx)
