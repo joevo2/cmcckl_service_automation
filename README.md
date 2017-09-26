@@ -61,6 +61,9 @@ Automate weekly Sunday worship service
 - PowerPoint Generator (create pptx)
   - [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
   - [officegen](https://github.com/Ziv-Barber/officegen)
+  
+## API
+- [Lyrics API](https://github.com/toddmotto/public-apis#music) 
 
 ## Existing solution
 - [OpenLP](https://openlp.org/)
