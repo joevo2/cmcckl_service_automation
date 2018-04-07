@@ -4,7 +4,7 @@ Automate weekly Sunday worship service
 ## Features
 - [ ] Consolidate current slides stored in Dropbox into a database
 - [ ] Generate slides from the database
-- [ ] Crawl hymnal.org to save into the database
+- [ ] Crawl [https://hymnary.org](https://hymnary.org) to save into the database
 - [ ] Generate slides and save as PowerPoint
 - [ ] Multilingual slides support (English, Chinese, Malay and more)
 
